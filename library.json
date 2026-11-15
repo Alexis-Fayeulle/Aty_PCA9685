@@ -1,0 +1,12 @@
+{
+  "name": "Aty_PCA9685",
+  "version": "1.0.0",
+  "description": "Driver for the PCA9685 16-channel, 12-bit PWM I2C controller: frequency, 12-bit duty cycle, full ON/OFF, sleep.",
+  "keywords": "arduino, pca9685, pwm, i2c, 12-bit, 16-channel, led, servo, fan",
+  "authors": { "name": "Alexis Fayeulle" },
+  "repository": { "type": "git", "url": "https://github.com/Alexis-Fayeulle/Aty_PCA9685.git" },
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "headers": "Aty_PCA9685.h"
+}

@@ -1,0 +1,32 @@
+# Syntax Colouring Map For Aty_PCA9685
+
+# Data types (KEYWORD1)
+Aty_PCA9685	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin	KEYWORD2
+isConnected	KEYWORD2
+setFrequency	KEYWORD2
+getFrequency	KEYWORD2
+setPrescale	KEYWORD2
+setOscillatorFrequency	KEYWORD2
+setDuty	KEYWORD2
+setPulseMicroseconds	KEYWORD2
+setDutyPercent	KEYWORD2
+setAllDuty	KEYWORD2
+setPWM	KEYWORD2
+fullOn	KEYWORD2
+fullOff	KEYWORD2
+sleep	KEYWORD2
+wakeUp	KEYWORD2
+setInvertedOutputs	KEYWORD2
+setTotemPoleOutputs	KEYWORD2
+writeRegister	KEYWORD2
+readRegister	KEYWORD2
+
+# Constants (LITERAL1)
+DEFAULT_ADDRESS	LITERAL1
+CHANNEL_COUNT	LITERAL1
+MAX_DUTY	LITERAL1
+MIN_FREQUENCY	LITERAL1
+MAX_FREQUENCY	LITERAL1
